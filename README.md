@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @darshanPC25 or Paridarshan Sahoo
 - 👀 I’m interested in PPT making 
 - 🌱 I’m currently learning web development 
-- 💞️ I’m looking to collaborate on nobody
+- 💞️ I’m looking to collaborate on onwhere.
 - 📫 How to reach me (follow me in insta @pdarshan29)
 
 <!---
