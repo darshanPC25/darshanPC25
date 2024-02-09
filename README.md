@@ -1,5 +1,5 @@
-<p align="center"><img src="https://git-profile-readme-banner.vercel.app/api/python?username=LewisPour&txt=Here%20is%20my%20custom%20text"></p> 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center"><img src="https://git-profile-readme-banner.vercel.app/api/python?username=darshanPC&txt=A%20passionate%20frontend%20developer%20from%20India"></h1> 
+
 
 - 🌱 I’m currently learning **Full Stack**
 
