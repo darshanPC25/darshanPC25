@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://git-profile-readme-banner.vercel.app/api/python?username=darshanPC&txt=A%20passionate%20frontend%20developer%20from%20India"></h1> 
+<h1 align="center"><img src="https://git-profile-readme-banner.vercel.app/api/python?username=darshanPC25&txt=A%20passionate%20frontend%20developer%20from%20India"></h1> 
 
 
 - 🌱 I’m currently learning **Full Stack**
