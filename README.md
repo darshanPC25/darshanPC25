@@ -23,7 +23,7 @@
 - 🤔 I’m looking for help with **Data Science and Machine Learning**<br>
 - 🥅 2026 Goals: **To get Placed :)** <br>
 
-🕵 Take a look at my repositories and let's get in touch!<br>
+<!--🕵 Take a look at my repositories and let's get in touch!<br>-->
 
 <hr/>
 
