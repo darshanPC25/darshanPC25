@@ -15,12 +15,12 @@
 
 <img align="right" alt="coding" width="250" src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/keep_coding.gif">
 
-### I am a web developer
+### I am a Student
 
 - 👨‍🏭 I’m currently pursuing **B-Tech at MPEC kanpur** <br>
-- 🏫 I’m currently learning **Full Stack Web Devlopment and DSA** <br>
-- 🙌 I’m looking to collaborate on **Web Development** <br>
-- 🤔 I’m looking for help with **DSA and Competitive Programing**<br>
+- 🏫 I’m currently learning **Data Science** <br>
+- 🙌 I’m looking to collaborate on **Data Science** <br>
+- 🤔 I’m looking for help with **Data Science and Machine Learning**<br>
 - 🥅 2026 Goals: **To get Placed :)** <br>
 
 🕵 Take a look at my repositories and let's get in touch!<br>
