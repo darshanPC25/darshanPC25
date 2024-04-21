@@ -20,6 +20,7 @@
 ### I am a Student
 
 <br>
+
 - 👨‍🏭 I’m currently pursuing **B-Tech at MPEC kanpur** <br>
 - 🏫 I’m currently learning **Data Science** <br>
 - 🙌 I’m looking to collaborate on **Data Science** <br>
