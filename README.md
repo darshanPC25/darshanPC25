@@ -15,8 +15,11 @@
 
 <img align="right" alt="coding" width="250" src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/keep_coding.gif">
 
+<br>
+
 ### I am a Student
 
+<br>
 - 👨‍🏭 I’m currently pursuing **B-Tech at MPEC kanpur** <br>
 - 🏫 I’m currently learning **Data Science** <br>
 - 🙌 I’m looking to collaborate on **Data Science** <br>
@@ -25,6 +28,8 @@
 
 <!--🕵 Take a look at my repositories and let's get in touch!<br>-->
 
+
+<br>
 <hr/>
 
 <h3 align="left">Connect with me:</h3>
@@ -107,6 +112,8 @@ https://open.spotify.com/user/31gms3hlihdvvu6bwlnvzpig7qny?si=8e812ed666f24c50
 ![](https://activity-graph.herokuapp.com/graph?username=arifakhtar51&theme=github)
 
 </a>
+
+<hr/>
 
 <a hraf="https://www.linkedin.com/in/darshanpc/">
 
