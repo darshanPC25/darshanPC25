@@ -102,7 +102,20 @@ https://open.spotify.com/user/31gms3hlihdvvu6bwlnvzpig7qny?si=8e812ed666f24c50
 
 <!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=arifakhtar51&theme=tokyonight_duo&dates=28DDB7&fire=DD2727&sideLabels=DD7F19&ring=12B6DD&currStreakNum=DD2727&border=65EAD0B7)](https://git.io/streak-stats)-->
 
+<a hraf="https://www.linkedin.com/in/darshanpc/">
+
 ![](https://activity-graph.herokuapp.com/graph?username=arifakhtar51&theme=github)
 
+</a>
 
+<a hraf="https://www.linkedin.com/in/darshanpc/">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+10&pause=1000&color=FDB60D&random=false&width=439&lines=Thanks+For+Visiting+My+Profile+!!)](https://git.io/typing-svg)
+
+</a>
+
+<a hraf="https://www.linkedin.com/in/darshanpc/">
+  
 ![](https://github.com/03prashantpk/03prashantpk/blob/main/assets/footer3.png)
+
+</a>
